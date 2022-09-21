@@ -1,6 +1,6 @@
 {
-  "name": "regular_check",
-  "version": "1.0.0",
+  "name": "regular_check_common",
+  "version": "1.1.4",
   "description": "常用正则匹配大全",
   "main": "src/index.js",
   "scripts": {
