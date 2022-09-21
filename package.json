@@ -1,0 +1,22 @@
+{
+  "name": "regular_check",
+  "version": "1.0.0",
+  "description": "常用正则匹配大全",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xuminxue/regular_check.git"
+  },
+  "keywords": [
+    "['javascript']"
+  ],
+  "author": "xuminxue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuminxue/regular_check/issues"
+  },
+  "homepage": "https://github.com/xuminxue/regular_check#readme"
+}
